@@ -1,4 +1,4 @@
-#! /urs/bin/python
+#! /usr/bin/python
 
 ## Jason Landsborough
 ## Last updated: 7/4/2013
